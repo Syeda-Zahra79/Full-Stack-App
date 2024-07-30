@@ -1,5 +1,5 @@
 import { v2 as cloudinary } from "cloudinary";
-import fs, { unlink } from 'fs' // File System // comes in by default with Node
+import fs from 'fs' // File System // comes in by default with Node
 
 
 // unlink means remove the file / delete the file
